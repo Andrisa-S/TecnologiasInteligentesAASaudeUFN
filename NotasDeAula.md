@@ -8,9 +8,11 @@
       - 20% da nota é a participação efetiva
       - 20% da nota será as anotações em sala de aula
       - 60% desafios e trabalhos
+        
   **Predição X Previsão**
     - Predição: Ato de afirmar com convicção aquilo que poderá acontecer num momento futuro;
     - Previsão: Antecipação, na base de suposições, do que ainda não aconteceu.
+      
   **Sistema de Recomendação X Sistema de Apoio a Decisão (SAD)**
     - SR: *Recomendação* a partir do histórico individual, com base no padrão *pessoal*;
     - SAD: *Sugestão* a partir do histórico geral, com base nos padrões *coletivos*.
