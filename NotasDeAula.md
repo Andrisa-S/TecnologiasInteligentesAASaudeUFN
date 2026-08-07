@@ -51,6 +51,44 @@
 
 ----------------------
 ## Semana 2 - 07/08/26
+  ### Revisão
+  - **Técnicas de IA**
+    - Redes Neurais - Reconhecimento de padrões
+      - Base de conhecimento de amostras para treinamento
+      - Raciocínio automatizado
+      - Aprendizado de máquina
+
+  - Processamento da Língua Natural
+
+  - Sistemas Multiagentes
+   
+  - **Áreas da saúde:**
+    - Medicina, Odontologia ou Psicologia
+      - Diagnóstico ou recomendação
+    - Enfermagem
+      - Monitoramento/Sensoriamento e atuação
+    - Farmácia, Biomedicina ou Química
+      - Predição ou Previsão -> recomendação
+
+  - **Termos ou conceitos:**
+    - Sistema de Apoio à Decisão (SAD) X Sistema de recomendação
+    - Diagnóstico
+		  - reconhecer padrões -> volume de dados -> algoritmos de aprendizado de máquina
+	  - Monitoramento ou Sensoriamento Atuação
+		  - automação
+	  - Predição e Previsão
+	  	- reconhecer padrões -> volume de dados -> algoritmos de mineração
+	  - Recomendação
+		  - Predição e Previsão
+    - KDD: Descoberta de Conhecimento em BigData
+      - Mineração de Dados (*Data Minning*)
+        - Reconhecimento de Padrões (*Pattern Recognition*)
+          - Redes Neurais Artificiais e Matemática
+            - Algoritmos de Predição
+            - Algoritmos de Previsão
+    - Estatística X Mineração:
+      - *Estatística:* Amostra (n) -> entender TUDO
+      - *Mineração:* Tudo (**all**) -> entender UM indivíduo
 
 ----------------------
 ## Semana 3 - 14/08/26
