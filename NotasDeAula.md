@@ -62,7 +62,7 @@
 
   - Sistemas Multiagentes
    
-  - **Áreas da saúde:**
+  - **Áreas da saúde:** 👩‍⚕️
     - Medicina, Odontologia ou Psicologia
       - Diagnóstico ou recomendação
     - Enfermagem
@@ -72,7 +72,7 @@
 
   - **Termos ou conceitos:**
     - Sistema de Apoio à Decisão (SAD) X Sistema de recomendação
-    - Diagnóstico
+    - Diagnóstico 🩺
 		  - reconhecer padrões -> volume de dados -> algoritmos de aprendizado de máquina
 	  - Monitoramento ou Sensoriamento Atuação
 		  - automação
@@ -92,7 +92,31 @@
 
 ----------------------
 ## Semana 3 - 14/08/26
-
+- Apresentação e discussão da pesquisa
+- Entender na prática a diferença de Predição e Previsão
+	- Códigos python no Google Colab
+		- pandas 🐼
+   			- dataframes: são armazenados pós ETL
+        	- métodos ou recursos de leitura de dados (SGBD ou csv ou json)
+		- numpy
+    		- Tratamento de estruturas de dados e conversões
+		- scikitlearn:
+			- Modelos pré-treinados (teoria de RNA: amostras repetidas e ajustes de peso):
+				- Predição (classifica ou categoriza ou rotula ou etiqueta)
+				- Previsão (a partir de série temporal estima o próximo item da série)
+    - Treinamento de modelo
+  		- **Regra do negócio:** atributos a serem avaliados
+      	- Base de dados (fonte de amostras) para o treinamento
+      	  - **ETL** (Extração, Transformação e Carga): organização de dados pré-treinamento
+      	    - BD
+      	      - plugins de conexão do pandas com SGBD
+      		- csv
+      	    - padronizar a estrutura de dados a ser minerada (KDD)
+      	      - [] (lista)
+      	      - {} (dicionário)
+      	      - {key:dados}
+      	- Definir se predição ou previsão
+			
 ----------------------
 ## Semana 4 - 21/08/26
 
