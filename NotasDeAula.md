@@ -10,8 +10,8 @@
       - 60% desafios e trabalhos
         
   - **Predição X Previsão**
-    - Predição: Ato de afirmar com convicção aquilo que poderá acontecer num momento futuro;
-    - Previsão: Antecipação, na base de suposições, do que ainda não aconteceu.
+    - Predição - Predizer (dizer antecipadamente): Estimativa de resposta. Ato de afirmar com convicção aquilo que poderá acontecer num momento futuro;
+    - Previsão - Prever (ver antecipadamente): Baseada na análise de dados históricos com o objetivo de estimar a evolução futura de uma determinada variável.
       
   - **Sistema de Recomendação X Sistema de Apoio a Decisão (SAD)**
     - SR: *Recomendação* a partir do histórico individual, com base no padrão *pessoal*;
@@ -119,6 +119,18 @@
 			
 ----------------------
 ## Semana 4 - 21/08/26
+- Revisão **Predição e Previsão**
+	- *Predição* - genérico - sem tempo futuro:
+	    - CLASSIFICAR/CATEGORIZAR/ETIQUETAR/ROTULAR.
+	- *Previsão* - específico - com tempo futuro:
+   		- **Linha/Série temporal**;
+   		- ESTIMAR/PREVER > TEMPO
+	- Necessário uma *base* de dados **robusta** (volumes de dados consistente)
 
+ - PROBLEMA (contexto)
+	 1. Definir: Predição ou Previsão
+	 2. Escolher base de dados
+	 3. Aplicar ETL
+	 4. Definir modelo -> BenchMark
 ----------------------
 ## Semana 5 - 28/08/26
