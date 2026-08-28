@@ -228,3 +228,28 @@
 
 ----------------------
 ## Semana 5 - 28/08/26
+- Avaliação com 2 problemas de comparativo de *predição*
+  - 1. https://github.com/Andrisa-S/TecnologiasInteligentesAASaudeUFN/blob/main/Codigos/1_atividade_comparativa.py
+    2. https://github.com/Andrisa-S/TecnologiasInteligentesAASaudeUFN/blob/main/Codigos/2_atividade_comparativa.py
+
+### Acurácia e F1-Score
+- Acurácia (Accuracy)
+	Mede a proporção de previsões corretas em relação ao total de previsões.
+	- Fórmula: (VP + VN) / Total de previsões
+	- Quando usar: datasets balanceados, com classes em proporções semelhantes.
+	- Limitação: pode ser enganosa em datasets desbalanceados. Ex.: se 95% dos dados pertencem a uma classe, prever sempre essa classe resulta em 95% de acurácia, mas o modelo não identifica bem a classe minoritária.
+- F1-Score
+	Combina Precisão (Precision) e Recall (Sensibilidade) por meio da média harmônica. É especialmente útil em datasets desbalanceados.
+	- Precisão: entre as previsões positivas, quantas estavam corretas?
+		VP / (VP + FP)
+	- Recall: entre os positivos reais, quantos foram identificados corretamente?
+		VP / (VP + FN)
+	- Quando usar: quando é importante equilibrar falsos positivos e falsos negativos.
+- Resumo
+  
+  |Métrica	|Principal objetivo	|Melhor uso|
+  |---------|-------------------|----------|
+  |Acurácia	|Medir o total de previsões corretas |Classes balanceadas|
+  |F1-Score	|Equilibrar Precisão e Recall |Classes desbalanceadas|
+
+Em poucas palavras: a Acurácia mostra o desempenho geral do modelo, enquanto o F1-Score oferece uma avaliação mais equilibrada entre a capacidade de evitar falsos positivos e falsos negativos.
