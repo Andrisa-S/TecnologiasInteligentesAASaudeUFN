@@ -253,3 +253,36 @@
   |F1-Score	|Equilibrar Precisão e Recall |Classes desbalanceadas|
 
 Em poucas palavras: a Acurácia mostra o desempenho geral do modelo, enquanto o F1-Score oferece uma avaliação mais equilibrada entre a capacidade de evitar falsos positivos e falsos negativos.
+
+----------------------
+## Semana 7 - 11/09/26
+### PyCaret
+
+Reproduzir, utilizando o PyCaret, o processo de treinamento, comparação e avaliação dos mdelos preditivos desenvolvidos nos desafios anteriores, analisando se os resultados obtidos são consistentes com aqueles encontrados anteriormente.
+	
+1) Entenda o papel do PyCaret.
+2) Entenda como configura-lo no seu ambiente de desenvolvimento.
+3) Reimplemente os dois problemas anteriores utilizando o PyCaret, substituindo, sempre que possível, a implementação manual dos modelos pelas funcionalidades disponibilizadas pela biblioteca.
+4) Utilize os recursos do PyCaret para treinar e comparar diferentes modelos de classificação, identificando quais modelos apresentam melhor desempenho. Utilize a funcionalidade de comparação de modelos do PyCaret (compare_models) e apresente os resultados obtidos.
+
+- **Importante**
+
+	O objetivo do exercício não é apenas executar os comandos do PyCaret. O aluno deverá compreender e explicar o processo realizado pela ferramenta, interpretando os resultados obtidos.
+	
+	Compare os resultados obtidos anteriormente, utilizando a implementação tradicional dos modelos, com os resultados obtidos utilizando o PyCaret.
+	
+	O que é preciso saber:
+	- Os melhores modelos foram os mesmos?
+	- As métricas foram semelhantes?
+	- Houve diferenças significativas?
+	- Por que os resultados podem ter sido diferentes?
+	- Qual abordagem você considera mais adequada para este tipo de problema: implementação manual ou PyCaret? Justifique.
+
+----------------------
+## Semana 8 - 18/09/26
+
+----------------------
+## Semana 9 - 25/09/26
+
+----------------------
+## Semana 10 - 02/10/26
