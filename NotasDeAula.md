@@ -281,6 +281,7 @@ Reproduzir, utilizando o PyCaret, o processo de treinamento, comparação e aval
 ----------------------
 ## Semana 8 - 18/09/26
 
+- [github.com/castagnagh/PyCaret](https://github.com/castagnagh/PyCaret) : Minicurso PyCaret
 ----------------------
 ## Semana 9 - 25/09/26
 
