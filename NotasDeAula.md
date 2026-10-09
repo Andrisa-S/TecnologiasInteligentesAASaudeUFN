@@ -287,3 +287,6 @@ Reproduzir, utilizando o PyCaret, o processo de treinamento, comparação e aval
 
 ----------------------
 ## Semana 10 - 02/10/26
+- LLM, RAG, Agente de IA e MCP
+- [Guia de engenharia de prompt](https://www.promptingguide.ai/pt)
+- Uso de tokens: [Como cobram api](https://github.com/alexandrezamberlan/tias/blob/main/6_codigos_ia_generativa/como_cobram_api.md)
