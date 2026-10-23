@@ -290,3 +290,30 @@ Reproduzir, utilizando o PyCaret, o processo de treinamento, comparação e aval
 - LLM, RAG, Agente de IA e MCP
 - [Guia de engenharia de prompt](https://www.promptingguide.ai/pt)
 - Uso de tokens: [Como cobram api](https://github.com/alexandrezamberlan/tias/blob/main/6_codigos_ia_generativa/como_cobram_api.md)
+
+----------------------
+## Semana 12 - 16/10/26
+- [Apresentação ER Clinic](https://github.com/Andrisa-S/TecnologiasInteligentesAASaudeUFN/blob/main/AtividadeAvaliativa16-10.md)
+
+----------------------
+## Semana 13 - 23/10/26
+- IA
+	- Modelos preditivos/previsivos (treinamento)
+		- Manual
+		- PyCaret
+	- Pipelines -> *Somdiabetes
+		 - Modelos de treinamento
+		- IA generativa
+			- LLM + RAG
+		      - Recomendar insulina*
+		      - Gerar relatórios*
+		- LLM + Transformers + **Embbedings** + RAG
+    		- Engenharia de Prompt => JSON
+
+- Dinâmica de trabalho - Metodologia de memória
+	- Contexto **SPEC** - GestãoDS
+   		- SDD (Spec Driven Development)
+       		- Rotas por URL (Postman)
+       	- Ter referências do escopo, como chats dentro de um projeto específico
+       	  	- *Skills* -> personalização da IA
+       	  	  	- Exemplo: Caveman
