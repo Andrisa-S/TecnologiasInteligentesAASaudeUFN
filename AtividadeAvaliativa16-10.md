@@ -1,6 +1,7 @@
 # Atividade Avaliativa ER Clinic
   - [PDF Apresentação](https://github.com/alexandrezamberlan/tias/blob/main/Tecnologias%20Inteligentes%20Aplicadas%20a%CC%80%20Sau%CC%81de%20-%20ERClinic.pdf)
   - 10 pontos
+  - [Atividade final](https://github.com/Andrisa-S/TecnologiasInteligentesAASaudeUFN/blob/main/Relat%C3%B3rio%20%E2%80%93%20Intelig%C3%AAncia%20Artificial%20na%20Sa%C3%BAde%20ER%20Clinic.pdf)
 
 ## Tarefas:
 - [ ] Prestar atenção
