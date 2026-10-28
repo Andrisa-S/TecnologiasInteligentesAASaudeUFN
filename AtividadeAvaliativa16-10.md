@@ -85,6 +85,10 @@ IA ao longo da jornada do paciente:
       - **Desafio de arquitetura:** onde fazer a transcrição?
         1) Capturar o áudio e enviá-lo em fragmentos ao servidor
         2) Transcrever no frontend e enviar somente o texto
+
+           Minha solução:
+           - Capturar o áudio e transcrever de forma nativa e natural, como os áudios do whatsapp ou gravações do android;
+           - Servidor armazena áudio e texto, retornando somente texto para cliente.
   - Resumo automático do prontuário
     - Testaram modelos de sumarização (Hugging Face)
     - Usaram modelos comerciais, usam modelos pagos via OpenRouter
